@@ -1,0 +1,6 @@
+{
+  "name": "Universe Sandbox",
+  "description": "A realistic 2D gravity physics simulator and sandbox to build galaxies, solar systems, black holes, and custom orbits.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
